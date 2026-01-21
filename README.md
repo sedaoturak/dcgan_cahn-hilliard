@@ -1,4 +1,5 @@
-# Generative Adversarial Networks (GAN) with Mechanical MNIST (Cahn-Hilliard)
+# Generative Adversarial Networks (GAN) with Mechanical MNIST (Cahn-Hilliard) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sedaoturak/dcgan_cahn-hilliard/blob/main/DCGAN_Cahn_Hillard.ipynb)
+
 Generative model Deep Convolutional Generative Adversarial Networks (DCGAN) implementation for the predictions of phase separation in binary alloys
 
 ## Goal
