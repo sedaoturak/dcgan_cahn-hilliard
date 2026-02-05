@@ -26,4 +26,3 @@ Condition will be added to the model so that microstructures can be designed by 
 
 ## Additional Notes
 The code was written on Google Colab platform. Different installation of libraries or functions might be required to use the notebook in local machines.
-The code for the GAN model and its training were taken from [this](https://github.com/Yuumna/GAN-PyTorch) repository (special thanks!).
