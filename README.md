@@ -21,6 +21,9 @@ The improvements listed below were done in training the DCGAN model compared to 
 4. Instance noise was added to fake images to make learning task harder for Discriminator.
 5. Dropout was applied in both networks to prevent overfitting.
 
+<p align="center">
+  <img src="comparison.png" width=80% height=80%>
+
 ## Works to do
 Condition will be added to the model so that microstructures can be designed by a given strength.
 
